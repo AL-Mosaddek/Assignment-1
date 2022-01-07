@@ -18,6 +18,10 @@ section{
 .half-width img{
     width: 100%;
 }
+.border{
+    border-left: 5px solid orangered;
+    padding-left: 5px;
+}
 .Explore-button{
     text-decoration: none;
     background-image: linear-gradient(tomato, tomato);
